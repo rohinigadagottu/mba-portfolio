@@ -1,0 +1,38 @@
+---
+title: "Contact"
+format: html
+page-layout: full
+---
+
+# 📬 Get in Touch
+
+Thank you for visiting my portfolio website. I'm always open to connecting for professional opportunities, collaborations, or networking.
+
+Feel free to reach out through any of the channels below:
+
+---
+
+## 📇 Contact Information
+
+- 📍 **Location:** Vancouver, Canada  
+- 📞 **Phone:** +1 (604) 771-6895  
+- 📧 **Email:** [gadagotturohini@gmail.com](mailto:gadagotturohini@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/rohini-gadagottu](https://linkedin.com/in/rohini-gadagottu) *(Add if available)*  
+- 💻 **GitHub Portfolio:** [Your GitHub Portfolio Link](https://your-github-url-here) *(Replace with actual link)*
+
+---
+
+## 🕒 Availability
+
+I'm available to work flexible hours, including nights and weekends. You can expect a response to emails within 24–48 hours.
+
+---
+
+## 📄 Download My Resume
+
+Need a quick overview of my qualifications?  
+[Click here to download my resume (PDF)](/resume/Rohini-Gadagottu-Resume.pdf)
+
+---
+
+Looking forward to hearing from you!

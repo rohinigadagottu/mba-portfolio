@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "Rohini's MBA Portfolio"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Resume"
+        href: Resume.qmd
+      - text: "Projects"
+        href: Projects.qmd
+      - text: "Skills"
+        href: Skills.qmd
+      - text: "Contact"
+        href: Contact.qmd
+
+format:
+  html:
+    theme: cosmo

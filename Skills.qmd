@@ -1,0 +1,54 @@
+---
+title: "Skills & Certifications"
+format: html
+page-layout: full
+---
+
+# 🧠 Skills & Certifications
+
+This page outlines the professional skills I bring to the table, as well as the certifications I’ve earned in digital marketing and business operations.
+
+---
+
+## 💡 Soft Skills
+
+- Strong interpersonal and communication skills  
+- Customer-first mindset (GUEST: Greet, Uncover, Engage, Suggest, Thank)  
+- Adaptable and quick learner in dynamic environments  
+- Collaborative and team-oriented approach  
+- Detail-oriented and focused on store standards  
+- Positive, energetic, and goal-driven personality  
+- Time management and multitasking under pressure  
+- Passion for fitness, sports, and brand engagement
+
+---
+
+## 🛠️ Tools & Platforms
+
+- **Sales & CRM:** Salesforce, Point-of-Sale (POS) Systems  
+- **Marketing & Analytics:** SEMrush, Meta Ads Manager, Google Analytics  
+- **Design & Publishing:** Canva, Quarto, Markdown, GitHub Pages  
+- **Documentation & Productivity:** Microsoft Excel, Word, PowerPoint  
+- **Social Media Management:** Instagram for Business, TikTok Business Tools  
+
+---
+
+## 📜 Certifications
+
+### ✅ Digital Marketing & Content Strategy
+
+- **Stukent Social Media Simternship**  
+  *Hands-on simulation of social media campaign strategy, budgeting, and analytics*  
+  [View Certificate](https://static.semrush.com/academy/certificates/3658364ff1/rohini-gadagottu_1.pdf)
+
+- **SEMrush Content Marketing Certification**  
+  *SEO strategies, content planning, and keyword optimization*  
+  [View Certificate](https://static.semrush.com/academy/certificates/7dd6efcb8b/rohini-gadagottu_2.pdf)
+
+- **SEMrush SEO Fundamentals Certification**  
+  *Website audit, technical SEO, and performance tracking*  
+  [View Certificate](https://static.semrush.com/academy/certificates/ac45e44344/rohini-gadagottu_2.pdf)
+
+---
+
+💼 These skills and certifications reflect my strong foundation in business operations and digital marketing, equipping me to take on customer-centric and strategy-driven roles in today’s competitive market.

@@ -1,0 +1,52 @@
+---
+title: "Projects & Case Studies"
+format: html
+page-layout: full
+---
+
+# 🚀 Projects & Case Studies
+
+This section highlights selected academic and professional projects that reflect my skills in business strategy, customer engagement, and retail operations.
+
+---
+
+## 🛍️ Retail Optimization Project – Watch Station
+
+**Role:** Sales Associate | **Location:** McArthurGlen, Vancouver  
+- Applied the GUEST model to enhance customer satisfaction and drive sales.  
+- Developed strong product knowledge to offer tailored watch and accessory recommendations.  
+- Contributed to loss prevention and inventory management initiatives.  
+- Maintained visual merchandising standards in alignment with brand guidelines.
+
+---
+
+## 🧾 Front-End Process Improvement – D Mart
+
+**Role:** Cashier | **Location:** Hyderabad, India  
+- Managed high-volume transactions while maintaining cash accuracy.  
+- Streamlined customer flow during peak hours by guiding them to open counters.  
+- Supported promotional activities for loyalty programs and store services.  
+- Helped improve team coordination and queue efficiency at the front end.
+
+---
+
+## 🛒 Customer Service Strategy – More Superstore
+
+**Role:** Sales Associate | **Location:** Nizamabad, India  
+- Conducted informal needs assessments to recommend the best-fit products.  
+- Improved customer engagement through proactive communication and personalized support.  
+- Participated in team briefings to stay aligned on promotions and safety updates.  
+- Followed store opening and closing procedures for operational readiness.
+
+---
+
+## 📊 Capstone Research – BBA Final Year Project
+
+**Institution:** Telangana University | **Title:** Retail Strategy & Consumer Behavior  
+- Investigated consumer behavior in tier-2 cities with a focus on pricing, display, and service quality.  
+- Designed and distributed surveys to collect primary data.  
+- Analyzed results in Excel and presented actionable insights to faculty and peers.
+
+---
+
+These projects demonstrate my hands-on understanding of business operations, sales effectiveness, and customer-centered retail practices.
